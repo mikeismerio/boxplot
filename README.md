@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5836L790MM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5836L790MM');
+</script>
+
 # BoxPlot y valores atípicos
 
 Un boxplot, también conocido como diagrama de caja y bigotes, es una herramienta gráfica utilizada en estadísticas descriptivas para representar la distribución de un conjunto de datos numéricos. Este gráfico proporciona información clave sobre la tendencia central, la dispersión y la presencia de valores atípicos en los datos.
